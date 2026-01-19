@@ -7,7 +7,7 @@ Welcome to my academic portfolio for (put your course name and section here)!
 ## About Me
 - Name: (Shujauddin Faizi)
 - Program: (CPA)
-- Year: (2026)
+- Year: (2026 Winter)
 - Favorite Programming Language: (C progarm)
  
 ## Course Goals
